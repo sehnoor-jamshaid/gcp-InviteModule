@@ -1,0 +1,28 @@
+{
+  "userCampaigns": [
+    {
+      
+      "userId":"0",
+      "name": "John",
+      "email": "john.j@gmail.com",
+      "gender": "male"
+      
+    },
+    {
+      
+      "userId":"1",
+      "name": "John",
+      "email": "john.j@gmail.com",
+      "gender": "male"
+      
+    },
+    {
+      
+      "userId":"2",
+      "name": "John",
+      "email": "john.j@gmail.com",
+      "gender": "male"
+      
+    }
+  ]
+}

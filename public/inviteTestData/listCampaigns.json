@@ -1,0 +1,70 @@
+[
+    {   "id": "hjdhfjdk-01", 
+        "title": "Alfallah",
+        "campaigns": [
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545342",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545343",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545344",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545346",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545347",
+                "name": "DHLP"
+            },
+            {
+                "id": "hjdhfjdk-4545348",
+                "name": "Interne Program"
+            }
+        ]
+    },
+    {
+        "id": "hjdhfjdk-02",
+        "title": "HBL",
+        "campaigns": [
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "Interne Program"
+            },
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "Interne Program"
+            }
+        ]
+    },
+    {   "id": "hjdhfjdk-03", 
+        "title": "C-Factor",
+        "campaigns": [
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "MI Program"
+            },
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "MI Program"
+            },
+            {
+                "id": "hjdhfjdk-4545345",
+                "name": "Interne Program"
+            }
+        ]
+    }
+]

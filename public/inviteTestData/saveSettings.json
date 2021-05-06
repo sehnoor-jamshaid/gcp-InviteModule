@@ -1,0 +1,22 @@
+[{
+    "active":true,
+    "allow_direct_applications":false,
+    "allow_invites_only":false,
+    "campaignEmail":"recruitment@grameenphone.com",
+    "campaignUrl":null,
+    "clientId":"abc",
+    "createdAt":"2019-11-07T16:31:30.917Z",
+    "_description":"This is a  GrameenPhone3 campaign!",
+    "emailSubject":"Assessment invitation to the Grameenphone Talent Games",
+    "emailTemplate":"Dear Candidate,<div>Welcome to the <b>Grameenphone Talent Games!</b></div><div><br></div><div><p>We will be taking you through a Gamified Assessment Center. Your decisions&#10;and actions throughout the game will help us know you just a little bit better.&#160;</p><p><span>To attempt the online&#10;assessment, </span><a href=https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fredirect.c-factor.live%2Fls%2Fclick%3Fupn%3DW-2BLBna1Tg6uN8D-2BTtjqvWJbEtQ-2FX1WmYwt0r4YrTkz5WtTpHbPH8e5MWaKkLAG2iOt_e_35Ecm9zJGxLRwIqmmiar0fEPF15dtvZkM838wRyBFeWS7By68191uKEkMboHPXztT8u741Y3TiC2iXwtSdbmQi74hOSkF22magAB-2BrCYS2lo8C8FbUzyxhmrZLcgbWfG-2BViEH-2B8hUII9LNnMMqinjCoTCLvrMmKWbXHI0l1aCJQBsUcWzDviGp7R-2FyWgc2YviyjdMTWdxyCUtc6av8wO0z1DGzVheG5vmSuTkj-2FcqGIIHH5Xn-2Bkva4cPJ6WY86vv&amp;data=02%7C01%7Cjunaid.ahmed%40grameenphone.com%7C84de270cbbaf429ee9fa08d7ad1cbd11%7C1676489c5c7246b7ba639ab90c4aad44%7C1%7C1%7C637168211251629198&amp;sdata=qbGaZJjSOLALzmSdQhR%2FgOKVD9JX5A5MQkuHdDC%2FkHM%3D&amp;reserved=0>please&#10;click here</a><span>. Please note that the time period for registration and&#10;completing the assessment/game is limited and should not take more than 60 minutes. The game will go live at 12:00 PM and will be closed at 01:30 PM. Any completion beyond this will not be accepted.</span></p><p><span><br></span></p><p><span>Please note that you will need to have a LinkedIn account in order to complete the registration process. If you do not have one, we suggest that you create one now in advance.</span></p><p><span><br></span></p><p><span>For any technical queries, please write to <a href=mailto:recruitment@grameenphone.com>recruitment@grameenphone.com</a>&#10;and <a href=mailto:info@c-factor.live>info@c-factor.live</a>.</span><br></p><p><span><br></span></p><p><span>Best of Luck</span></p><p><span><br></span></p><p><span>GP HR</span></p></div>",
+    "end_date":"Mon Feb 22 2021 18:30:00 GMT+0600 (Bangladesh Standard Time)",
+    "id":"adsdasd",
+    "image_url":null,
+    "name":"GrameenPhone3",
+    "start_date":"Mon Jan 25 2021 14:30:00 GMT+0600 (Bangladesh Standard Time)",
+    "startupComponentId":null,
+    "state":"completed",
+    "title":"GrameenPhone",
+    "updatedAt":"2021-02-22T07:16:29.359Z"
+ }
+ ]

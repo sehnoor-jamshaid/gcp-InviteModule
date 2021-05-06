@@ -1,0 +1,11 @@
+.demo-editor.rdw-editor-main
+{
+    border:2px grey solid;
+    overflow-y: scroll;
+    height:40vh;
+    
+}
+textarea
+{
+    display:none;
+}

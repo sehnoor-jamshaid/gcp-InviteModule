@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"Rejection",
+        "template":"<p>Thank you for taking the time to consider , We wanted to let you know that we have chosen to move forward with a different candidate.<br><br>Best of Luck<br><br>GR HR</p>"
+
+    },
+    {
+        "id":2,
+        "name":"Reminder",
+        "template":"<p>Thank you for taking the time to consider , We wanted to let you know that we have chosen to move forward with a different candidate.<br>If you do not have one,we  suggest that you create one now in advance<br><br>For any technical queries, please write to recruitment@grameenphone.co  and info@c-factor.live.<br><br>Best of Luck<br><br>GR HR</p>"
+    },
+    {
+       " id":3,
+        "name":"Invite",
+        "template":"<p>DEAR CANDIDATE, We would like to congratulate you on successfully registering yourself for CAMPAIGN%NAME%, this might be your first big move towards your successful career. In the initial step, we would like to know a little more about you and your personality. For this, you have to go through an assessment game where your answers will allow us to understand you as an individual.If you think you can make a difference then COMPANY%NAME% is the place to be! <br><br>For any technical queries, please write to recruitment@grameenphone.co  and info@c-factor.live.<br><br>Best of Luck<br><br>GR HR</p>" 
+        
+    }
+    
+    
+]
